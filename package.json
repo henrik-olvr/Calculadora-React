@@ -1,5 +1,6 @@
 {
   "name": "calculadora-react",
+  "homepage": "https://diegomirhan.github.io/calculadora-react",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
